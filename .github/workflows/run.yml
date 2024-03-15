@@ -1,4 +1,4 @@
-name: Update GitHub Stats Gist
+name: Update GitHub Stats Gist 
 on:
     workflow_dispatch:
     schedule:
